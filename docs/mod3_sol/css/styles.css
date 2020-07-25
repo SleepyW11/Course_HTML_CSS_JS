@@ -1,0 +1,24 @@
+.details {
+    background-color: #aa7777;
+    padding: 10px;
+    border-radius: 5px;
+    height: 1000px;
+    font-size: 1.2em;
+}
+
+.details h3 {
+    margin-top: -5px;
+}
+
+.main-body {
+    padding: 0px 40px 0px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.nav {
+    background-color: #def;
+    font-size: 1.2em;
+}
